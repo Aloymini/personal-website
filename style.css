@@ -1,0 +1,35 @@
+img{
+    width: 350px
+}
+body{
+    background: rgb(74,95,144);
+    color: white;
+}
+h1 {
+    text-align: center;
+    font-family: 'Genty';
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Genty';
+}
+
+h3{
+    text-align: center;
+    font-family: 'Genty';
+}
+
+h4{
+    text-align: center;
+    font-family: 'Genty';
+}
+
+p {
+    text-align: center;
+    font-family: 'Genty';
+}
+
+li {
+    font-family: 'Genty';
+}
